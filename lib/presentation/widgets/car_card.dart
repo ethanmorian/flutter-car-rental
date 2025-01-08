@@ -44,9 +44,7 @@ class CarCard extends StatelessWidget {
                 fontSize: 20,
               ),
             ),
-            SizedBox(
-              height: 10,
-            ),
+            SizedBox(height: 10),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
