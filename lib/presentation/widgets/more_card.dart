@@ -14,15 +14,18 @@ class MoreCard extends StatelessWidget {
     return Container(
       padding: EdgeInsets.all(10),
       decoration: BoxDecoration(
-          color: Color(0xff212020),
-          borderRadius: BorderRadius.circular(18),
-          boxShadow: [
-            BoxShadow(
-                color: Colors.black54,
-                blurRadius: 8,
-                offset: Offset(0,4)
-            )
-          ]
+        color: Color(0xff212020),
+        borderRadius: BorderRadius.circular(18),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black54,
+            blurRadius: 8,
+            offset: Offset(
+              0,
+              4,
+            ),
+          )
+        ],
       ),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
