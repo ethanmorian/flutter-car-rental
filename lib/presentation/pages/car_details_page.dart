@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_car_rental/presentation/widgets/more_card.dart';
 
-import '../../data/models/car.dart';
+import '../../data/model/car.dart';
 import '../widgets/car_card.dart';
 import 'maps_details_page.dart';
 

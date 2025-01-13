@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_car_rental/data/models/car.dart';
+import 'package:flutter_car_rental/data/model/car.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 
